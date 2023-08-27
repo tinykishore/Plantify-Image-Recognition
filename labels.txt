@@ -1,4 +1,3 @@
-2101,background
 0,Betula lenta
 1,Urtica dioica
 2,Amorpha fruticosa
@@ -2100,3 +2099,4 @@
 2098,Neomyrtus pedunculata
 2099,Cynoglossum grande
 2100,Strelitzia reginae
+2101,background
