@@ -1,5 +1,5 @@
 # Plant Image Recognition for Plantify
-###### Proposed model for plant recognition in Plantify project with pre-built model provided by Google Tensorflow
+###### Model for plant recognition in Plantify project with pre-built model provided by Google Tensorflow
 
 [View in TensorFlow Hub website](https://tfhub.dev/google/aiy/vision/classifier/plants_V1/1)
 
